@@ -16,6 +16,14 @@
 
 ```python
 # TODO: you code here...
+
+rest = int(input())
+
+if rest%10 == 5:
+    print("yes")
+
+else:
+    print("no")
 ```
 
 ---
