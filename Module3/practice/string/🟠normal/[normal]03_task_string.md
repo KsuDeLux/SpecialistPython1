@@ -18,7 +18,13 @@
 
 ```python
 text = "Мама мыла раму. Устала мама, но наконец отмыла раму-)"
-# TODO: you code here...
+# TODO: 
+
+s = "Мама мыла раму. Устала мама, но наконец отмыла раму-)"
+new_s = s.lower()
+print(new_s)
+count_s = new_s.count("мама")
+print(count_s)
 ```
 
 ---
